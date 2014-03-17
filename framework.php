@@ -19,7 +19,7 @@
       <div class="_chd-cl-xs-12-sm-02 img-resp row">
         <? for($i=1;$i<=6;$i++) { ?>
         <div>
-          <img src="di/300x190.jpg" width="300" height="190" alt="">
+          <img src="https://www.dropbox.com/s/uhwhtnnlokm7yuf/300x190.jpg" width="300" height="190" alt="">
           <div>
             <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.</p>
           </div>
@@ -32,7 +32,7 @@
       <div class="_chd-cl-xs-12-sm-04 img-resp imgl-xs row">
         <? for($i=1;$i<=6;$i++) { ?>
         <div>
-          <img src="di/300x190.jpg" width="300" height="190" alt="">
+          <img src="https://www.dropbox.com/s/uhwhtnnlokm7yuf/300x190.jpg" width="300" height="190" alt="">
           <div>
             <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.</p>
           </div>
@@ -45,7 +45,7 @@
       <div class="_chd-cl-xs-12-sm-04 img-resp imgr-xs row">
         <? for($i=1;$i<=6;$i++) { ?>
         <div>
-          <img src="di/300x190.jpg" width="300" height="190" alt="">
+          <img src="https://www.dropbox.com/s/uhwhtnnlokm7yuf/300x190.jpg" width="300" height="190" alt="">
           <div>
             <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.</p>
           </div>
@@ -58,7 +58,7 @@
       <div class="_chd-cl-xs-12-sm-04 img-resp imgl-xs imgt-sm row">
         <? for($i=1;$i<=3;$i++) { ?>
         <div>
-          <img src="di/300x190.jpg" width="300" height="190" alt="">
+          <img src="https://www.dropbox.com/s/uhwhtnnlokm7yuf/300x190.jpg" width="300" height="190" alt="">
           <div>
             <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.</p>
           </div>
@@ -68,7 +68,7 @@
       <div class="_chd-cl-xs-12-sm-04 img-resp imgl-xs row">
 		<? for($i=1;$i<=3;$i++) { ?>
         <div>
-          <img src="di/300x190.jpg" width="300" height="190" alt="">
+          <img src="https://www.dropbox.com/s/uhwhtnnlokm7yuf/300x190.jpg" width="300" height="190" alt="">
           <div>
             <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.</p>
           </div>
