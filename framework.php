@@ -2,7 +2,6 @@
 <html>
 <head>
 <meta charset="utf-8">
-<link rel="stylesheet" type="text/css" href="cs/bootstrap-pngz.css">
 <link rel="stylesheet" type="text/css" href="cs/ui-new.css">
 <link rel="stylesheet" type="text/css" href="cs/font-all.css">
 <link rel="stylesheet" type="text/css" href="cs/theme.css">
